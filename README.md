@@ -6,7 +6,7 @@ Currently 1st year Computer Engineering @ [E]
 📈 45+ projects in 2025 | Python → JS → Docker → AWS → K8s  
 
 ### 🔥 Pinned Projects (Update every week)
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=AdilAmejoud&repo=your-project-repo&theme=dark)](https://github.com/AdilAmejoud/your-project-repo)
+[![Project Name](https://github.com/AdilAmejoud/projects-)](https://github.com/AdilAmejoud/your-project-repo)
 
 ### 🛠 Tech Stack I'm Mastering
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,docker,kubernetes,aws,linux,bash,git,postgres,mongodb&perline=8" />
