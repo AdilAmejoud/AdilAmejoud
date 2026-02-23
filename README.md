@@ -1,6 +1,6 @@
 # Hi 👋 I'm Adil Amejoud  
 🔥 **Future Software Engineer from Morocco  
-Currently 1st year Computer Engineering @ [E]  
+Currently 1st year Computer science Engineering @ [ENSMR]  
 
 🚀 Building one production-grade project every week  
 📈 45+ projects in 2025 | Python → JS → Docker → AWS → K8s  
