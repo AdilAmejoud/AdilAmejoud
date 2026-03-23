@@ -11,7 +11,7 @@ Currently 1st year Computer science Engineering @ [ENSMR]
 ### 🛠 Tech Stack I'm Mastering
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,docker,kubernetes,aws,linux,bash,git,postgres,mongodb&perline=8" />
 
-### 📊 GitHub Stats (People LOVE this)
+### 📊 GitHub Stats 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AdilAmejoud&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAmejoud&layout=compact&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdilAmejoud&theme=tokyonight&hide_border=true)
