@@ -10,7 +10,7 @@
 
 <a href="https://coder-verse-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-CoderVerse-0ea5e9?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/adil-amejoud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/coder_verse"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/coder__verse/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://youtube.com/@CoderVerse-dev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="mailto:adilamejoud@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
